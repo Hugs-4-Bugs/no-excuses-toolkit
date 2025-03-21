@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # No Excuses Toolkit
 
 A productivity app that combines a **Pomodoro Timer**, **Google Calendar Integration**, **Daily Goal Tracker**, and more to help you stay on track and achieve your goals without excuses. 
@@ -88,4 +88,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 **No Excuses Toolkit** is designed to help you stay productive and focused. Use it as your daily companion to eliminate distractions and track your progress toward your goals.
 ```
 
-Now the repository link is updated to `https://github.com/Hugs-4-Bugs/no-excuses-toolkit.git`.
