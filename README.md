@@ -15,6 +15,12 @@ The app is designed to boost your productivity with a timer, track your goals, a
 - **Live Trading Data**: View live market data for Bitcoin, Ethereum, Nifty 50, Gold, Silver, and Forex.
 - **Market Analysis Tools**: Access tools for market data, including FII/DII activity, Nifty option chain, and Indian stock screener.
 
+  
+
+<img width="1440" alt="Screenshot 2025-03-21 at 6 36 14 PM" src="https://github.com/user-attachments/assets/30fd3210-91fb-4edb-8d38-395f268074cf" />
+
+  
+
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
@@ -87,4 +93,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **No Excuses Toolkit** is designed to help you stay productive and focused. Use it as your daily companion to eliminate distractions and track your progress toward your goals.
 ```
-
