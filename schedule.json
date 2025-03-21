@@ -1,0 +1,10 @@
+{
+  "08:00-10:00": { "task": "You idiot, go apply for jobs! Stop being lazy!", "category": "job" },
+  "10:00-11:30": { "task": "Learn new things in development or stay dumb forever!", "category": "development" },
+  "11:30-13:00": { "task": "Eat and recharge, but don’t waste time scrolling!", "category": "general" },
+  "13:30-16:00": { "task": "Build your projects! Stop pretending to be busy!", "category": "development" },
+  "16:00-17:00": { "task": "Do your trading research, or just keep losing money!", "category": "trading" },
+  "18:00-19:30": { "task": "Revise your learning! If you don’t, you’ll stay mediocre!", "category": "general" },
+  "17:00-18:00": { "task": "Take a break and enjoy some coffee and snacks. Don’t waste your time.", "category": "coffee" },
+  "22:30-23:10": { "task": "Sleep, or you'll never be productive again tomorrow!", "category": "general" }
+}

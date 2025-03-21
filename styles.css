@@ -1,0 +1,79 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 750px;
+    padding: 35px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+
+
+
+
+.market-links {
+    background: #121212;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.market-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.market-links li {
+    margin: 8px 0;
+}
+
+.market-links a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#live-data a {
+    color: #ff6600; /* Change to any color you prefer */
+    font-weight: bold;
+    text-decoration: none; /* Removes underline */
+}
+#live-data a:hover {
+    color: #ff0000; /* Changes color on hover */
+}
+
+
+#mute-toggle {
+    padding: 5px 10px;
+    font-size: 14px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#mute-toggle:hover {
+    background-color: #0056b3;
+}
+  
+#goalList {
+    list-style-type: none;  /* Remove default list bullet */
+    padding-left: 0;  /* Remove any extra padding */
+}
+
+#goalList li {
+    text-align: left;  /* Align the text to the left */
+    padding-left: 150px;  /* Optional: add some space from the left */
+    margin-bottom: 5px;  /* Add some space between list items */
+}

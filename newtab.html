@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>No Excuses Toolkit</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="quote">Loading...</h1>
+        <p id="schedule">Your schedule will appear here.</p>
+
+        <!-- Pomodoro Timer UI -->
+        <div class="pomodoro">
+            <h2>Pomodoro Timer</h2>
+            <p id="timer">25:00</p>
+            <button id="startButton">Start</button>
+            <button id="pauseButton">Pause</button>
+            <button id="resetButton">Reset</button>
+        </div>  
+        
+        <!-- 🎯 Daily Goal Tracker -->
+        <div class="container">
+            <h1>🎯 Daily Goal Tracker</h1>
+            <input type="text" id="goalInput" placeholder="Enter your goal">
+            <button id="addGoalBtn">➕ Add Goal</button>
+            <ul id="goalList"></ul>
+        </div>
+
+        <div class="trading-container">
+            <h2>📈 Live Trading Data</h2>
+            <p id="live-data">
+                <a href="https://coinmarketcap.com/currencies/bitcoin/" target="_blank"><b>BTC</b></a> |  
+                <a href="https://coinmarketcap.com/currencies/ethereum/" target="_blank"><b>ETH</b></a> |  
+                <a href="https://www.nseindia.com/market-data/live-equity-market" target="_blank"><b>NIFTY 50</b></a> |  
+                <a href="https://www.goldprice.org/" target="_blank"><b>Gold (XAU/USD)</b></a> |  
+                <a href="https://www.goldprice.org/silver-price.html" target="_blank"><b>Silver (XAG/USD)</b></a> |  
+                <a href="https://www.myfxbook.com/en/forex-market" target="_blank"><b>Forex (EUR/USD)</b></a>
+            </p>
+        </div>
+        
+        <div class="market-links">
+            <h2>🔗 Market Analysis Tools</h2>
+            <p>
+                <a href="https://web.stockedge.com/fii-activity" target="_blank"><b>📊 FII/DII Data</b> </a> |  
+                <a href="https://web.sensibull.com/option-chain?tradingsymbol=NIFTY" target="_blank"><b>📝 NIFTY Option Chain</b> </a> |  
+                <a href="https://www.myfxbook.com/en/forex-market" target="_blank"><b>💹 Forex Market Data</b></a> |  
+                <a href="https://coinmarketcap.com/" target="_blank"><b>🚀 Crypto Prices</b></a> |  
+                <a href="https://www.coinglass.com/" target="_blank"><b>📉 Crypto Liquidity</b></a> |  
+                <a href="https://www.screener.in/" target="_blank"><b>📈 Indian Stock Screener</b></a>
+            </p>
+        </div>
+    </div>
+    
+    <script src="newtab.js"></script>
+</body>
+</html>

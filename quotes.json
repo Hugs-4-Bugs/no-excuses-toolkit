@@ -1,0 +1,199 @@
+{
+  "job": [
+    {
+      "text": "You idiot, go apply for jobs! Stop being lazy!",
+      "link": "https://www.linkedin.com/jobs/"
+    },
+    {
+      "text": "Still waiting for the 'perfect job'? LOL, keep waiting while others get ahead!",
+      "link": "https://www.indeed.com/"
+    },
+    {
+      "text": "Recruiters don’t owe you anything. You either apply or stay unemployed!",
+      "link": "https://www.naukri.com/"
+    },
+    {
+      "text": "No applications = no interviews = no job. It’s that simple!",
+      "link": "https://angel.co/jobs"
+    },
+    {
+      "text": "You’re not 'unlucky,' you’re just not applying enough!",
+      "link": "https://instahyre.com/"
+    },
+    {
+      "text": "Your dream job won’t magically come to you. Go chase it!",
+      "link": "https://wellfound.com/jobs"
+    },
+    {
+      "text": "If you apply to 0 jobs, expect 0 results. Stop complaining!",
+      "link": "https://www.glassdoor.com/Job/index.htm"
+    },
+    {
+      "text": "Startups don’t care about your excuses. Show skills or get ignored!",
+      "link": "https://www.ycombinator.com/jobs"
+    },
+    {
+      "text": "Nobody is hiring? Maybe nobody wants YOU. Get better!",
+      "link": "https://himalayas.app/jobs"
+    },
+    {
+      "text": "You're unemployed because you choose to be. Apply now!",
+      "link": "https://www.remotive.io/"
+    }
+],
+  "development": [
+    {
+      "text": "Quit whining and code! Your project isn’t going to build itself!",
+      "link": "https://leetcode.com/u/Hugs-2-Bugs/"
+    },
+    {
+      "text": "If you’re not coding, someone else is getting ahead of you!",
+      "link": "https://github.com/Hugs-4-Bugs"
+    },
+    {
+      "text": "Stay dumb or learn something new. Your choice!",
+      "link": "https://www.udemy.com/courses/development/"
+    },
+    {
+      "text": "You idiot, go code! Your project isn’t going to build itself!",
+      "link": "https://www.hackerrank.com/profile/Prabhat_7250"
+    }
+  ],
+  "coding": [
+    {
+      "text": "Why are you here? Go solve problems or stay dumb!",
+      "link": "https://leetcode.com/u/Hugs-2-Bugs/"
+    },
+    {
+      "text": "If you can’t solve problems, you’re useless in tech. Fix that now!",
+      "link": "https://www.hackerrank.com/profile/Prabhat_7250"
+    },
+    {
+      "text": "Your excuses won’t help in an interview. Your skills will!",
+      "link": "https://www.geeksforgeeks.org/user/stealthy_prabhat/"
+    },
+    {
+      "text": "Others are grinding DSA while you scroll. Get to work!",
+      "link": "https://leetcode.com/u/Hugs-2-Bugs/"
+    }
+  ],
+ "trading": [
+    {
+      "text": "If you don’t study the charts, your losses are your own fault!",
+      "link": "https://www.tradingview.com/"
+    },
+    {
+      "text": "The market doesn’t care about your feelings, only your execution!",
+      "link": "https://www.binance.com/"
+    },
+    {
+      "text": "Research or stay broke. The choice is yours!",
+      "link": "https://www.investing.com/"
+    },
+    {
+      "text": "Stop making emotional trades. The market doesn’t care about your feelings!",
+      "link": "https://www.forexfactory.com/"
+    },
+    {
+      "text": "You can cry about losses or learn to trade. Pick wisely.",
+      "link": "https://www.tradingview.com/"
+    },
+    {
+      "text": "Success in trading isn’t about being right; it’s about managing your risk.",
+      "link": "https://www.binance.com/"
+    },
+    {
+      "text": "If you can’t take the heat, stay out of the market.",
+      "link": "https://www.investing.com/"
+    },
+    {
+      "text": "Trading isn’t for the faint of heart. Prepare to face failure.",
+      "link": "https://www.forexfactory.com/"
+    },
+    {
+      "text": "Your ego won’t save you when the market turns against you.",
+      "link": "https://www.tradingview.com/"
+    },
+    {
+      "text": "The market isn’t here to babysit you. Either adapt or get wrecked.",
+      "link": "https://www.binance.com/"
+    },
+    {
+      "text": "In the world of trading, your emotions will be your executioner.",
+      "link": "https://www.tradingview.com/"
+    },
+    {
+      "text": "Most traders are just hoping for a miracle. The market has no mercy.",
+      "link": "https://www.forexfactory.com/"
+    },
+    {
+      "text": "The market is a hunter, and retail traders are the prey.",
+      "link": "https://www.investing.com/"
+    },
+    {
+      "text": "Trading is the art of surviving your losses. Winning is optional.",
+      "link": "https://www.binance.com/"
+    },
+    {
+      "text": "The market doesn’t care if you’re new or experienced. It will humble you.",
+      "link": "https://www.forexfactory.com/"
+    },
+    {
+      "text": "If you're not willing to lose everything, you're not ready for the market.",
+      "link": "https://www.tradingview.com/"
+    }
+],
+  "general": [
+    {
+      "text": "Wake up, work hard, and stop complaining. No one’s coming to save you.",
+      "link": "https://www.productivitytools.com/"
+    },
+    {
+      "text": "Failure is proof that you’re weak. Fix it.",
+      "link": "https://www.selfdiscipline.com/"
+    },
+    {
+      "text": "You have 24 hours like everyone else. Stop making excuses.",
+      "link": "https://www.habitica.com/"
+    },
+    {
+      "text": "Your excuses won’t build your future. Only hard work will!",
+      "link": "https://www.tonyrobbins.com/"
+    }
+  ],
+  "coffee": [
+    {
+      "text": "Take your break, but don’t get too comfortable! Coffee won’t solve your laziness.",
+      "link": ""
+    },
+    {
+      "text": "Coffee in hand, but no excuses. Get back to work soon or keep being mediocre!",
+      "link": ""
+    },
+    {
+      "text": "Snacks won't save you from failure. Stop procrastinating and get back to work.",
+      "link": ""
+    },
+    {
+      "text": "Your coffee break is over. You don’t need more distractions; you need results.",
+      "link": ""
+    }
+  ],
+  "sleep": [
+    {
+      "text": "If you don’t sleep now, you’ll be even more useless tomorrow! Stop being a failure and rest."
+    },
+    {
+      "text": "You wasted your day again. Tomorrow, you’ll still be nothing if you don’t wake up and get your act together!"
+    },
+    {
+      "text": "Sleep, you lazy idiot. You deserve nothing more than failure and regret!"
+    },
+    {
+      "text": "You’re just a dreamer, never a doer. Get your shit together or continue wasting your life!"
+    },
+    {
+      "text": "Your lack of effort today will just add to your miserable tomorrow. Don’t even bother pretending to be busy!"
+    }
+  ]
+}
